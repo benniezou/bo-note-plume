@@ -6,7 +6,7 @@ export const zhNavbar: ThemeNavItem[] = defineNavbarConfig([
   {
     text: '服务器',
     icon: 'icon-park-outline:guide-board',
-    link: '/server/quick-start/intro.md',
+    link: '/server/WinServer/intro.md',
     activeMatch: '^/server/',
   },
   {

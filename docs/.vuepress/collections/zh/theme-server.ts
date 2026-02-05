@@ -4,7 +4,7 @@ import { defineCollection } from 'vuepress-theme-plume'
 export const themeServer: ThemeCollectionItem = defineCollection({
   type: 'doc',
   dir: 'server',
-  title: '指南',
+  title: '服务器',
   linkPrefix: '/server/',
   sidebar: [
     {
