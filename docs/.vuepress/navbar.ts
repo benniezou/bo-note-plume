@@ -4,6 +4,12 @@ import { version } from '../../package.json'
 
 export const zhNavbar: ThemeNavItem[] = defineNavbarConfig([
   {
+    text: '服务器',
+    icon: 'icon-park-outline:guide-board',
+    link: '/server/quick-start/intro.md',
+    activeMatch: '^/server/',
+  },
+  {
     text: '指南',
     icon: 'icon-park-outline:guide-board',
     link: '/guide/quick-start/intro.md',
