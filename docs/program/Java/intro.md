@@ -88,7 +88,7 @@ juice.size=FreshJuice.FreshJuiceSize.MEDIUM;
 
 ##Java关键字
 下面列出了Java关键字。这些保留字不能用于常量、变量、和任何标识符的名称。
-
+::: table
 |               类别               |         关键字          |            说明             |                 类别                 |          关键字           |             说明             |
 |:------------------------------:|:--------------------:|:-------------------------:|:----------------------------------:|:----------------------:|:--------------------------:|
 |  访问控制{rowspan=4}{.important}   |  private{.warning}   |       私有的{.success}       | 类、方法和变量修饰符{rowspan=13}{.important} |        abstract        |            声明抽象            |
@@ -116,7 +116,7 @@ juice.size=FreshJuice.FreshJuiceSize.MEDIUM;
 |                                |   short{.warning}    |       短整型{.success}       |                                    |     this{.warning}     |        本类{.success}        |
 |  保留关键字{rowspan=2}{.important}  |    goto{.warning}    |   是关键字，但不能使用{.success}    |                                    |     void{.warning}     |       无返回值{.success}       |
 |                                |   const{.warning}    |   是关键字，但不能使用{.success}    |                                    |                        |                            |
-
+:::
 注意：Java的null不是关键字，类似于true和false，它是一个字面常量，不允许作为标识符使用。
 
 ##Java注释
