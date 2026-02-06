@@ -3,17 +3,42 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 import { version } from '../../package.json'
 
 export const zhNavbar: ThemeNavItem[] = defineNavbarConfig([
-  {
-    text: '服务器',
-    icon: 'icon-park-outline:guide-board',
-    link: '/server/WinServer/intro.md',
-    activeMatch: '^/server/',
-  },
+
   {
     text: '指南',
     icon: 'icon-park-outline:guide-board',
     link: '/guide/quick-start/intro.md',
     activeMatch: '^/guide/',
+  },
+  {
+    text: '前端',
+    icon: 'icon-park-outline:guide-board',
+    link: '/ui/Html/intro.md',
+    activeMatch: '^/ui/',
+  },
+  {
+    text: '泛微',
+    icon: 'icon-park-outline:guide-board',
+    link: '/fanwei/intro.md',
+    activeMatch: '^/fanwei/',
+  },
+  {
+    text: '数据库',
+    icon: 'icon-park-outline:guide-board',
+    link: '/database/mysql/intro.md',
+    activeMatch: '^/database/',
+  },
+  {
+    text: '编程',
+    icon: 'icon-park-outline:guide-board',
+    link: '/program/Java/intro.md',
+    activeMatch: '^/program/',
+  },
+  {
+    text: '服务器',
+    icon: 'icon-park-outline:guide-board',
+    link: '/server/WinServer/intro.md',
+    activeMatch: '^/server/',
   },
   {
     text: '配置',
