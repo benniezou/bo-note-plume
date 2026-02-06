@@ -89,33 +89,33 @@ juice.size=FreshJuice.FreshJuiceSize.MEDIUM;
 ##Java关键字
 下面列出了Java关键字。这些保留字不能用于常量、变量、和任何标识符的名称。
 
-|类别|关键字|说明|类别|关键字|说明|
-|:-------------------------------:|:----------------------:|:----------------------------:|:------------------------------------:|:-----------------------:|:-----------------------------:|
-|访问控制{rowspan=4}{.important}|private{.warning}|私有的{.success}|类、方法和变量修饰符{rowspan=13}{.important}|abstract|声明抽象|
-||protected{.warning}|受保护的{.success}||class{.warning}|类{.success}|
-||public{.warning}|公共的{.success}||extends{.warning}|扩充、继承{.success}|
-||default{.warning}|默认{.success}||final{.warning}|最终值、不可改变的{.success}|
-|程序控制语句{rowspan=11}{.important}|break{.warning}|跳出循环{.success}||implements{.warning}|实现（接口）{.success}|
-||case{.warning}|定义一个值以供switch选择{.success}||interface{.warning}|接口{.success}|
-||continue{.warning}|继续{.success}||native{.warning}|本地、原生方法（非Java实现）{.success}|
-||do{.warning}|运行{.success}||new{.warning}|创建{.success}|
-||else{.warning}|否则{.success}||static{.warning}|静态{.success}|
-||for{.warning}|循环{.success}||strictfp{.warning}|严格浮点、精准浮点{.success}|
-||if{.warning}|如果{.success}||synchronized{.warning}|线程、同步{.success}|
-||instanceof{.warning}|实例{.success}||transient{.warning}|短暂{.success}|
-||return{.warning}|返回{.success}||volatile{.warning}|易失{.success}|
-||switch{.warning}|根据值选择执行{.success}|错误处理{rowspan=6}{.important}|assert{.warning}|断言表达式是否为真{.success}|
-||while{.warning}|循环{.success}||catch{.warning}|捕捉异常{.success}|
-|基本类型{rowspan=8}{.important}|boolean{.warning}|布尔型{.success}||finally{.warning}|有没有异常都执行{.success}|
-||byte{.warning}|字节型{.success}||throw{.warning}|抛出一个异常对象{.success}|
-||char{.warning}|字符型{.success}||throws{.warning}|声明一个异常可能被抛出{.success}|
-||double{.warning}|双精度浮点{.success}||try{.warning}|捕获异常{.success}|
-||float{.warning}|单精度浮点{.success}|包相关{rowspan=2}{.important}|import{.warning}|引入{.success}|
-||int{.warning}|整型{.success}||package{.warning}|包{.success}|
-||long{.warning}|长整型{.success}|变量引用{rowspan=3}{.important}|super{.warning}|父类、超类{.success}|
-||short{.warning}|短整型{.success}||this{.warning}|本类{.success}|
-|保留关键字{rowspan=2}{.important}|goto{.warning}|是关键字，但不能使用{.success}||void{.warning}|无返回值{.success}|
-||const{.warning}|是关键字，但不能使用{.success}||||
+|               类别               |         关键字          |            说明             |                 类别                 |          关键字           |             说明             |
+|:------------------------------:|:--------------------:|:-------------------------:|:----------------------------------:|:----------------------:|:--------------------------:|
+|  访问控制{rowspan=4}{.important}   |  private{.warning}   |       私有的{.success}       | 类、方法和变量修饰符{rowspan=13}{.important} |        abstract        |            声明抽象            |
+|                                | protected{.warning}  |      受保护的{.success}       |                                    |    class{.warning}     |        类{.success}         |
+|                                |   public{.warning}   |       公共的{.success}       |                                    |   extends{.warning}    |      扩充、继承{.success}       |
+|                                |  default{.warning}   |       默认{.success}        |                                    |    final{.warning}     |    最终值、不可改变的{.success}     |
+| 程序控制语句{rowspan=11}{.important} |   break{.warning}    |      跳出循环{.success}       |                                    |  implements{.warning}  |      实现（接口）{.success}      |
+|                                |    case{.warning}    | 定义一个值以供switch选择{.success} |                                    |  interface{.warning}   |        接口{.success}        |
+|                                |  continue{.warning}  |       继续{.success}        |                                    |    native{.warning}    | 本地、原生方法（非Java实现）{.success} |
+|                                |     do{.warning}     |       运行{.success}        |                                    |     new{.warning}      |        创建{.success}        |
+|                                |    else{.warning}    |       否则{.success}        |                                    |    static{.warning}    |        静态{.success}        |
+|                                |    for{.warning}     |       循环{.success}        |                                    |   strictfp{.warning}   |    严格浮点、精准浮点{.success}     |
+|                                |     if{.warning}     |       如果{.success}        |                                    | synchronized{.warning} |      线程、同步{.success}       |
+|                                | instanceof{.warning} |       实例{.success}        |                                    |  transient{.warning}   |        短暂{.success}        |
+|                                |   return{.warning}   |       返回{.success}        |                                    |   volatile{.warning}   |        易失{.success}        |
+|                                |   switch{.warning}   |     根据值选择执行{.success}     |    错误处理{rowspan=6}{.important}     |    assert{.warning}    |    断言表达式是否为真{.success}     |
+|                                |   while{.warning}    |       循环{.success}        |                                    |    catch{.warning}     |       捕捉异常{.success}       |
+|  基本类型{rowspan=8}{.important}   |  boolean{.warning}   |       布尔型{.success}       |                                    |   finally{.warning}    |     有没有异常都执行{.success}     |
+|                                |    byte{.warning}    |       字节型{.success}       |                                    |    throw{.warning}     |     抛出一个异常对象{.success}     |
+|                                |    char{.warning}    |       字符型{.success}       |                                    |    throws{.warning}    |   声明一个异常可能被抛出{.success}    |
+|                                |   double{.warning}   |      双精度浮点{.success}      |                                    |     try{.warning}      |       捕获异常{.success}       |
+|                                |   float{.warning}    |      单精度浮点{.success}      |     包相关{rowspan=2}{.important}     |    import{.warning}    |        引入{.success}        |
+|                                |    int{.warning}     |       整型{.success}        |                                    |   package{.warning}    |        包{.success}         |
+|                                |    long{.warning}    |       长整型{.success}       |    变量引用{rowspan=3}{.important}     |    super{.warning}     |      父类、超类{.success}       |
+|                                |   short{.warning}    |       短整型{.success}       |                                    |     this{.warning}     |        本类{.success}        |
+|  保留关键字{rowspan=2}{.important}  |    goto{.warning}    |   是关键字，但不能使用{.success}    |                                    |     void{.warning}     |       无返回值{.success}       |
+|                                |   const{.warning}    |   是关键字，但不能使用{.success}    |                                    |                        |                            |
 
 注意：Java的null不是关键字，类似于true和false，它是一个字面常量，不允许作为标识符使用。
 
