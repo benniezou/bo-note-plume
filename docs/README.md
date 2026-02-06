@@ -8,9 +8,9 @@ config:
     effect: lightning
     forceDark: true
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: 一个简约易用的，功能丰富的 vuepress 文档&博客 主题
+      name: 邹斌斌
+      tagline: 学习学习
+      text: 知人者智，自知者明。胜人者有力，自胜者强。知足者富。强行者有志。不失其所者久。死而不亡者寿。
       actions:
         -
           theme: brand
@@ -19,7 +19,7 @@ config:
         -
           theme: alt
           text: Github
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://github.com/benniezou/bonote
   -
     type: features
     features:
