@@ -4,11 +4,11 @@ import { defineCollection } from 'vuepress-theme-plume'
 export const themeProgram: ThemeCollectionItem = defineCollection({
   type: 'doc',
   dir: 'program',
-  title: '服务器',
+  title: '编程',
   linkPrefix: '/program/',
   sidebar: [
     {
-      text: '微软服务器',
+      text: 'Java',
       collapsed: false,
       icon: 'carbon:idea',
       prefix: 'Java',
