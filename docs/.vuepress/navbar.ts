@@ -19,7 +19,7 @@ export const zhNavbar: ThemeNavItem[] = defineNavbarConfig([
   {
     text: '泛微',
     icon: 'icon-park-outline:guide-board',
-    link: '/fanwei/intro.md',
+    link: '/fanwei/setting/intro.md',
     activeMatch: '^/fanwei/',
   },
   {
