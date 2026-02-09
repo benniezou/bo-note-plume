@@ -8,10 +8,28 @@ export const themeUi: ThemeCollectionItem = defineCollection({
   linkPrefix: '/ui/',
   sidebar: [
     {
-      text: 'Html',
+      text: 'html',
       collapsed: false,
       icon: 'carbon:idea',
-      prefix: 'Html',
+      prefix: 'html',
+      items: [
+        'intro',
+      ],
+    },
+    {
+      text: 'css',
+      collapsed: false,
+      icon: 'carbon:idea',
+      prefix: 'css',
+      items: [
+        'intro',
+      ],
+    },
+    {
+      text: 'javascript',
+      collapsed: false,
+      icon: 'carbon:idea',
+      prefix: 'javascript',
       items: [
         'intro',
       ],
