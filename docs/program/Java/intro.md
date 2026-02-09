@@ -25,7 +25,7 @@ public class HelloWorld{
 
 ```shell
 javac HelloWorld.java
-$java HelloWorld
+ java HelloWorld
 HelloWorld
 ```
 ##基本语法
@@ -42,8 +42,8 @@ Java所有的组成部分都需要名字。类名、变量名以及方法名都�
 
 关于Java标识符，有以下几点需要注意：
 
-所有的标识符都应该以字母（A-Z或者a-z）,美元符（$）、或者下划线（_）开始
-首字符之后可以是字母（A-Z或者a-z）,美元符（$）、下划线（_）或数字的任何字符组合
+所有的标识符都应该以字母（A-Z或者a-z）,美元符（`$`）、或者下划线（_）开始
+首字符之后可以是字母（A-Z或者a-z）,美元符（`$`）、下划线（_）或数字的任何字符组合
 关键字不能用作标识符
 标识符是大小写敏感的
 合法标识符举例：`age`、`$salary`、`_value`、`__1_value`
@@ -70,19 +70,16 @@ Java5.0引入了枚举，枚举限制变量只能是预先设定好的值。使�
 
 实例
 ```java
-
 class FreshJuice{
   enumFreshJuice.Size{SMALL,MEDIUM,LARGE}
   FreshJuiceSize.size;
 }
-
 public class FreshJuiceTest{
-public static void main (String[] args){
-  FreshJuice juice =new FreshJuice();
-  juice.size=FreshJuice.FreshJuiceSize.MEDIUM;
+  public static void main (String[] args){
+    FreshJuice juice =new FreshJuice();
+    juice.size=FreshJuice.FreshJuiceSize.MEDIUM;
+  }
 }
-}
-
 ```
 注意：枚举可以单独声明或者声明在类里面。方法、变量、构造函数也可以在枚举中定义。
 
@@ -127,16 +124,16 @@ public static void main (String[] args){
 注释中的字符将被Java编译器忽略。
 
 ```java
-publicclassHelloWorld{
-/*这是第一个Java程序
-*它将输出HelloWorld
-*这是一个多行注释的示例
-*/
-publicstaticvoidmain(String[]args){
-//这是单行注释的示例
-/*这个也是单行注释的示例*/
-System.out.println("HelloWorld");
-}
+public class HelloWorld{
+  /*这是第一个Java程序
+  *它将输出HelloWorld
+  *这是一个多行注释的示例
+  */
+  public static void main(String[] args){
+  //这是单行注释的示例
+  /*这个也是单行注释的示例*/
+  System.out.println("HelloWorld");
+  }
 }
 ```
 :::note

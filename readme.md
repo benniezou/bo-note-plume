@@ -48,7 +48,7 @@
 
 ## [使用文档](https://theme-plume.vuejs.press)
 
-QQ 交流群：[792882761](https://qm.qq.com/q/O3HNy4rxYc)
+QQ 交流群：[75750308](https://qm.qq.com/q/gmY3kvpmxy)
 
 ## 案例
 

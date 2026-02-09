@@ -16,8 +16,8 @@ export default defineUserConfig({
   public: path.resolve(__dirname, 'public'),
 
   locales: {
-    '/': { title: 'Plume 主题', lang: 'zh-CN' },
-    '/en/': { title: 'Plume Theme', lang: 'en-US' },
+    '/': { title: 'BOliaDoc', lang: 'zh-CN' },
+    '/en/': { title: 'BOliaDoc', lang: 'en-US' },
   },
 
   head: [

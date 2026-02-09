@@ -761,7 +761,7 @@ Demonstrate markdown source code and rendering results within a page.
 ```md
 ::: center
 
-**QQ Group:** [792882761](https://qm.qq.com/q/FbPPoOIscE)
+**QQ Group:** [75750308](https://qm.qq.com/q/FbPPoOIscE)
 
 ![QQ qr_code](/images/qq_qrcode.png){width="618" height="616" style="width: 200px"}
 
@@ -781,7 +781,7 @@ If you encounter any issues during use, please feel free to provide feedback via
 ```md
 ::: center
 
-**QQ Group:** [792882761](https://qm.qq.com/q/FbPPoOIscE)
+**QQ Group:** [75750308](https://qm.qq.com/q/FbPPoOIscE)
 
 ![QQ qr_code](/images/qq_qrcode.png){width="618" height="616" style="width: 200px"}
 

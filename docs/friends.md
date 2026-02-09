@@ -6,51 +6,51 @@ permalink: /friends/
 article: true
 list:
   -
-    name: pengzhanbo
-    link: https://github.com/pengzhanbo
+    name: Bennie Zou
+    link: https://github.com/benniezou
     avatar: https://github.com/pengzhanbo.png
   -
     name: pengzhanbo
-    link: https://github.com/pengzhanbo
+    link: https://github.com/benniezou
     avatar: https://github.com/pengzhanbo.png
   -
     name: pengzhanbo
-    link: https://github.com/pengzhanbo
-    avatar: https://github.com/pengzhanbo.png
-    location: GuangZhou
-    organization: PengZhanBo
-  -
-    name: pengzhanbo
-    link: https://github.com/pengzhanbo
+    link: https://github.com/benniezou
     avatar: https://github.com/pengzhanbo.png
     location: GuangZhou
     organization: PengZhanBo
   -
     name: pengzhanbo
-    link: https://github.com/pengzhanbo
+    link: https://github.com/benniezou
     avatar: https://github.com/pengzhanbo.png
     location: GuangZhou
     organization: PengZhanBo
-    socials:
-      -
-        icon: github
-        link: https://github.com/pengzhanbo
-      -
-        icon: twitter
-        link: https://twitter.com/pengzhanbo
   -
     name: pengzhanbo
-    link: https://github.com/pengzhanbo
+    link: https://github.com/benniezou
     avatar: https://github.com/pengzhanbo.png
     location: GuangZhou
     organization: PengZhanBo
     socials:
       -
         icon: github
-        link: https://github.com/pengzhanbo
+        link: https://github.com/benniezou
       -
         icon: twitter
-        link: https://twitter.com/pengzhanbo
+        link: https://twitter.com/benniezou
+  -
+    name: pengzhanbo
+    link: https://github.com/benniezou
+    avatar: https://github.com/pengzhanbo.png
+    location: GuangZhou
+    organization: PengZhanBo
+    socials:
+      -
+        icon: github
+        link: https://github.com/benniezou
+      -
+        icon: twitter
+        link: https://twitter.com/benniezou
   -
     name: pengzhanbo
     link: https://github.com/pengzhanbo

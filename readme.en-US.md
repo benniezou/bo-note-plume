@@ -48,7 +48,7 @@ It includes a rich set of powerful features designed to make content more expres
 
 ## [Documentation](https://theme-plume.vuejs.press)
 
-QQ communication group：[792882761](https://qm.qq.com/q/O3HNy4rxYc)
+QQ communication group：[75750308](https://qm.qq.com/q/gmY3kvpmxy)
 
 ## Examples
 

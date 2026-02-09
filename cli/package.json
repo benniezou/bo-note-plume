@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0-rc.187",
   "description": "The cli for create vuepress-theme-plume's project",
-  "author": "pengzhanbo <q942450674@outlook.com> (https://github.com/pengzhanbo/)",
+  "author": "Bennie Zou <1160473@qq.com> (https://github.com/benniezou/)",
   "license": "MIT",
   "homepage": "https://theme-plume.vuejs.press/",
   "repository": {

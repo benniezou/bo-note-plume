@@ -1,6 +1,6 @@
 ::: center
 
-**QQ 交流群：** [792882761](https://qm.qq.com/q/FbPPoOIscE)
+**QQ 交流群：** [75750308](https://qm.qq.com/q/FbPPoOIscE)
 
 ![QQ qr_code](/images/qq_qrcode.png){width="618" height="616" style="width: 200px"}
 

@@ -5,7 +5,7 @@ config:
   -
     type: hero
     full: true
-    effect: lightning
+    effect: tint-plate
     forceDark: true
     hero:
       name: 邹斌斌
