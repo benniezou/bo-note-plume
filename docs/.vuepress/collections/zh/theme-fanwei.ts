@@ -17,12 +17,21 @@ export const themeFanwei: ThemeCollectionItem = defineCollection({
       ],
     },
     {
-      text: 'HR相关',
+      text: '人事系统',
       collapsed: false,
       icon: 'carbon:idea',
       prefix: 'HR',
       items: [
         'card',
+      ],
+    },
+    {
+      text: '采购系统',
+      collapsed: false,
+      icon: 'carbon:idea',
+      prefix: 'inventory',
+      items: [
+        'seal',
       ],
     },
   ],

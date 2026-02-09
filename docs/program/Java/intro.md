@@ -14,28 +14,28 @@ permalink:/program/java/intro/
 ##HelloWorld
 
 ```java
-publicclassHelloWorld{
-publicstaticvoidmain(String[]args){
-System.out.println("HelloWorld");
-}
+public class HelloWorld{
+  public static void main (String[] args){
+    System.out.println("Hello World");
+  }
 }
 ```
 
-##运行
+## 运行
 
 ```shell
-javacHelloWorld.java
-$javaHelloWorld
+javac HelloWorld.java
+$java HelloWorld
 HelloWorld
 ```
 ##基本语法
 编写Java程序时，应注意以下几点：
 
-大小写敏感：Java是大小写敏感的，这就意味着标识符Hello与hello是不同的。
+大小写敏感：Java是大小写敏感的，这就意味着标识符`Hello`与hello是不同的。
 类名：对于所有的类来说，类名的首字母应该大写。如果类名由`若干单词`组成，那么每个单词的首字母应该大写，例如MyFirstJavaClass。
 方法名：所有的方法名都应该以小写字母开头。如果方法名含有`若干单词`，则后面的每个单词首字母大写。
 源文件名：源文件名必须和类名相同。当保存文件的时候，你应该使用类名作为文件名保存（切记Java是大小写敏感的），文件名的后缀为.java。（如果文件名和类名不相同则会导致编译错误）。
-主方法入口：所有的Java程序由publicstaticvoidmain(String[]args)方法开始执行。
+主方法入口：所有的Java程序由`public` `static` `void`  `main` `(String[] args)`方法开始执行。
 
 ##Java标识符
 Java所有的组成部分都需要名字。类名、变量名以及方法名都被称为标识符。
@@ -46,13 +46,13 @@ Java所有的组成部分都需要名字。类名、变量名以及方法名都�
 首字符之后可以是字母（A-Z或者a-z）,美元符（$）、下划线（_）或数字的任何字符组合
 关键字不能用作标识符
 标识符是大小写敏感的
-合法标识符举例：age、$salary、_value、__1_value
-非法标识符举例：123abc、-salary
+合法标识符举例：`age`、`$salary`、`_value`、`__1_value`
+非法标识符举例：`123abc`、`-salary`
 Java修饰符
 像其他语言一样，Java可以使用修饰符来修饰类中方法和属性。主要有两类修饰符：
 
-访问控制修饰符:default,public,protected,private
-非访问控制修饰符:final,abstract,static,synchronized
+访问控制修饰符:`default`,`public`,`protected`,`private`
+非访问控制修饰符:`final`,`abstract`,`static`,`synchronized`
 在后面的章节中我们会深入讨论Java修饰符。
 
 ##Java变量
@@ -71,15 +71,15 @@ Java5.0引入了枚举，枚举限制变量只能是预先设定好的值。使�
 实例
 ```java
 
-classFreshJuice{
-enumFreshJuiceSize{SMALL,MEDIUM,LARGE}
-FreshJuiceSizesize;
+class FreshJuice{
+  enumFreshJuice.Size{SMALL,MEDIUM,LARGE}
+  FreshJuiceSize.size;
 }
 
-publicclassFreshJuiceTest{
-publicstaticvoidmain(String[]args){
-FreshJuicejuice=newFreshJuice();
-juice.size=FreshJuice.FreshJuiceSize.MEDIUM;
+public class FreshJuiceTest{
+public static void main (String[] args){
+  FreshJuice juice =new FreshJuice();
+  juice.size=FreshJuice.FreshJuiceSize.MEDIUM;
 }
 }
 
@@ -87,7 +87,8 @@ juice.size=FreshJuice.FreshJuiceSize.MEDIUM;
 注意：枚举可以单独声明或者声明在类里面。方法、变量、构造函数也可以在枚举中定义。
 
 ##Java关键字
-下面列出了Java关键字。这些保留字不能用于常量、变量、和任何标识符的名称。
+下面列出了`Java`关键字。这些保留字不能用于常量、变量、和任何标识符的名称。
+
 ::: table
 |               类别               |         关键字          |            说明             |                 类别                 |          关键字           |             说明             |
 |:------------------------------:|:--------------------:|:-------------------------:|:----------------------------------:|:----------------------:|:--------------------------:|
@@ -117,6 +118,7 @@ juice.size=FreshJuice.FreshJuiceSize.MEDIUM;
 |  保留关键字{rowspan=2}{.important}  |    goto{.warning}    |   是关键字，但不能使用{.success}    |                                    |     void{.warning}     |       无返回值{.success}       |
 |                                |   const{.warning}    |   是关键字，但不能使用{.success}    |                                    |                        |                            |
 :::
+
 注意：Java的null不是关键字，类似于true和false，它是一个字面常量，不允许作为标识符使用。
 
 ##Java注释

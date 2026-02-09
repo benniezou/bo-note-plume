@@ -1,7 +1,9 @@
 ---
 title: 基本介绍
+password: zxadqz8023..
+passwordHint: 请输入密码
 createTime: 2026/02/06 08:24:31
-permalink: /fanwei/intro/
+permalink: /fanwei/setting/intro/
 ---
 ## 登录
 :::: steps
@@ -15,7 +17,7 @@ permalink: /fanwei/intro/
    ::: tip
    账号：工号或手机号码。
 
-   密码：初始密码为工号或123123（强制密码策略字母和数字组合）
+   密码：初始密码为`工号`或`123123`（强制密码策略字母和数字组合）
    :::
 
    ::::
