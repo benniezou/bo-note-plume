@@ -19,7 +19,7 @@ export default defineThemeConfig({
 
   social: [
     { icon: 'github', link: 'https://github.com/pengzhanbo/vuepress-theme-plume' },
-    { icon: 'qq', link: 'https://qm.qq.com/q/FbPPoOIscE' },
+    { icon: 'qq', link: 'https://qm.qq.com/q/gmY3kvpmxy' },
   ],
   navbarSocialInclude: ['github', 'qq'],
 
