@@ -14,6 +14,19 @@ export const themeGuide: ThemeCollectionItem = defineCollection({
       prefix: 'quick-start',
       items: [
         'intro',
+        'shortcut',
+        'safety',
+        'netFile',
+        {
+          text: 'word',
+          link: 'word',
+          items: ['word-mail'],
+        },
+        {
+          text: 'excel',
+          link: 'excel',
+          items: ['excel-functions'],
+        },
         'usage',
         'project-structure',
         {
