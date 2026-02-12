@@ -8,9 +8,9 @@ config:
     effect: tint-plate
     forceDark: true
     hero:
-      name: 邹斌斌
-      tagline: ----------------------------
-      text: 知人者智，自知者明。胜人者有力，自胜者强。知足者富。强行者有志。不失其所者久。死而不亡者寿。
+      name: 亚尼
+      tagline: Bennie Zou Olia Zhang
+      text: 知人者智，自知者明。胜人者有力，自胜者强。知足者富。
       actions:
         -
           theme: brand
@@ -18,6 +18,6 @@ config:
           link: /guide/intro/
         -
           theme: alt
-          text: Github
+          text: 关于公司
           link: https://github.com/benniezou/bonote
 ---

@@ -1,5 +1,5 @@
 ---
-title: excel-functions
+title: 表格函数
 createTime: 2026/02/11 15:16:44
 permalink: /guide/excel/functions/
 ---

@@ -70,15 +70,15 @@ export const zhNavbar: ThemeNavItem[] = defineNavbarConfig([
   //     },
   //   ],
   // },
-  // {
-  //   text: `${version}`,
-  //   icon: 'codicon:versions',
-  //   badge: '新',
-  //   items: [
-  //     { text: '更新日志', link: '/changelog/' },
-  //     { text: '参与贡献', link: '/contributing/' },
-  //   ],
-  // },
+  {
+    text: `关于`,
+    icon: 'codicon:versions',
+    badge: '强',
+    items: [
+      { text: '关于', link: '/about/' },
+      { text: '参与贡献', link: '/contributing/' },
+    ],
+  },
 ])
 
 export const enNavbar: ThemeNavItem[] = defineNavbarConfig([
