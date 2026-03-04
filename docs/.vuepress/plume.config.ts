@@ -18,13 +18,13 @@ export default defineThemeConfig({
   transition: { appearance: 'circle-clip' },
 
   social: [
-    { icon: 'github', link: 'https://github.com/pengzhanbo/vuepress-theme-plume' },
-    { icon: 'qq', link: 'https://qm.qq.com/q/gmY3kvpmxy' },
+    { icon: 'github', link: 'https://github.com/benniezou/bo-note-plume' },
+    { icon: 'qq', link: 'https://qm.qq.com/q/MCSb2aVoAg' },
   ],
   navbarSocialInclude: ['github', 'qq'],
 
   footer: {
-    copyright: 'Copyright © 2021-present pengzhanbo',
+    copyright: 'Copyright © 2025-present bennie.zou',
   },
 
   locales: {

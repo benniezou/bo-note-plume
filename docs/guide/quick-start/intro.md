@@ -7,15 +7,18 @@ tags:
   - 指南
   - 快速开始
 ---
+
+## 学习路线
+
 ## <b style="color: red">用户要求 </b>
 :::table
 | __场景__ {.important} |   __必须做的__ {.success}|   __严禁做的__  {.danger}  |
 |:------------:|:--------------:|:-----------------:|
-|    __离开工位__{.important}     | 锁定屏幕 (Win+L)  {.success}|   屏幕无人看管仍保持登录状态 {.danger}  |
-|    __密码设置__{.important}     |  使用复杂组合，定期更换  {.success} |  在便签上记录密码贴在显示器上  {.danger}|
-|    __文件处理__{.important}     | 使用公司审批的加密渠道传输{.success} | 使用私人微信/QQ/网盘传敏感文件{.danger} |
-|    __软件使用__{.important}     |   仅使用工作授权软件{.success}   |  私自安装游戏或来历不明的软件 {.danger}  |
-|    __介质使用__{.important}     |  使用经审批的加密U盘{.success}   |  随意使用个人U盘拷贝公司数据  {.danger} |
+|    __离开工位__ {.important}     | 锁定屏幕 (Win+L)  {.success}|   屏幕无人看管仍保持登录状态 {.danger}  |
+|    __密码设置__ {.important}     |  使用复杂组合，定期更换  {.success} |  在便签上记录密码贴在显示器上  {.danger}|
+|    __文件处理__ {.important}     | 使用公司审批的加密渠道传输{.success} | 使用私人微信/QQ/网盘传敏感文件{.danger} |
+|    __软件使用__ {.important}     |   仅使用工作授权软件{.success}   |  私自安装游戏或来历不明的软件 {.danger}  |
+|    __介质使用__ {.important}     |  使用经审批的加密U盘{.success}   |  随意使用个人U盘拷贝公司数据  {.danger} |
 :::
 
 ### <b style="color: red">物理与环境安全 </b>

@@ -51,5 +51,14 @@ export const themeGuide: ThemeCollectionItem = defineCollection({
         },
       ],
     },
+    {
+      text: '工具库',
+      collapsed: false,
+      icon: 'carbon:idea',
+      prefix: 'tools',
+      items: [
+        'ai',
+      ],
+    },
   ],
 })
