@@ -16,5 +16,26 @@ export const themeProgram: ThemeCollectionItem = defineCollection({
         'intro',
       ],
     },
+    {
+      text: 'Spring Boot包',
+      collapsed: false,
+      icon: 'carbon:idea',
+      prefix: 'JavaPackage',
+      items: [
+        'PdfBox',
+      ],
+    },
+    {
+      text: '供应商管理',
+      collapsed: false,
+      icon: 'carbon:idea',
+      prefix: 'supplier',
+      items: [
+        'intro',
+        'ruesCode',
+        'supplier',
+        'order',
+      ],
+    },
   ],
 })

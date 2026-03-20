@@ -23,6 +23,7 @@ export const themeFanwei: ThemeCollectionItem = defineCollection({
       prefix: 'HR',
       items: [
         'card',
+        'leave',
       ],
     },
     {

@@ -14,11 +14,11 @@ permalink: /program/java/intro/
 ##HelloWorld
 
 ```java
-public class HelloWorld{
-  public static void main (String[] args){
-    System.out.println("Hello World");
+  public class HelloWorld{
+    public static void main (String[] args){
+      System.out.println("Hello World");
+    }
   }
-}
 ```
 
 ## 运行
