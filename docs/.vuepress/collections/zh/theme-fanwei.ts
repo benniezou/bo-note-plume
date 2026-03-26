@@ -24,6 +24,8 @@ export const themeFanwei: ThemeCollectionItem = defineCollection({
       items: [
         'card',
         'leave',
+        'employee',
+        'overWork',
       ],
     },
     {

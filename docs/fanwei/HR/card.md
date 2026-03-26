@@ -3,7 +3,7 @@ title: 补卡申请
 password: zxadqz8023..
 passwordHint: 请输入密码
 createTime: 2026/02/07 08:25:13
-permalink: /fanwei/card/
+permalink: /fanwei/HR/card/
 ---
 
 ## 填写申请
