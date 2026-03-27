@@ -11,11 +11,10 @@ permalink: /fanwei/inventory/seal/
 :::steps
 
 1. 第一步
-我
+   填写相关信息
 2. 第二步
-1
+提交信息
 3. 第三步
-
-11
+  等待审核完成
 
 :::

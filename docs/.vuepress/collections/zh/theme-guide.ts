@@ -30,6 +30,31 @@ export const themeGuide: ThemeCollectionItem = defineCollection({
       ],
     },
     {
+      text: 'OA签核',
+      collapsed: false,
+      icon: 'carbon:idea',
+      prefix: 'oa',
+      items: [
+        'intro',
+        {
+          text: '行政管理',
+          link: 'admin',
+          items: [
+            'admin-duty',
+            'admin-out',
+          ],
+        },
+        {
+          text: '人事管理',
+          link: 'hr',
+          items: [
+            'hr-leave',
+            'hr-overWork',
+          ],
+        },
+      ],
+    },
+    {
       text: '软件知识',
       collapsed: false,
       icon: 'carbon:idea',

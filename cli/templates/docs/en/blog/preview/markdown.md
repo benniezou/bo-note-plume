@@ -64,7 +64,7 @@ content right
 
 [links](/)
 
-[outside links](https://github.com/pengzhanbo)
+[outside links](https://github.com/benniezou)
 
 **Badge：**
 
@@ -167,7 +167,7 @@ function foo() {
 ```
 
 ::: note
-note content [link](https://github.com/pengzhanbo) `inline code`
+note content [link](https://github.com/benniezou) `inline code`
 
 ```js
 const a = 1
@@ -178,7 +178,7 @@ const c = a + b
 :::
 
 ::: info
-content [link](https://github.com/pengzhanbo) `inline code`
+content [link](https://github.com/benniezou) `inline code`
 
 ```js
 const a = 1
@@ -189,7 +189,7 @@ const c = a + b
 :::
 
 ::: tip
-content [link](https://github.com/pengzhanbo) `inline code`
+content [link](https://github.com/benniezou) `inline code`
 
 ```js
 const a = 1
@@ -200,7 +200,7 @@ const c = a + b
 :::
 
 ::: warning
-content [link](https://github.com/pengzhanbo) `inline code`
+content [link](https://github.com/benniezou) `inline code`
 
 ```js
 const a = 1
@@ -211,7 +211,7 @@ const c = a + b
 :::
 
 ::: caution
-content [link](https://github.com/pengzhanbo) `inline code`
+content [link](https://github.com/benniezou) `inline code`
 
 ```js
 const a = 1
@@ -222,7 +222,7 @@ const c = a + b
 :::
 
 ::: important
-content [link](https://github.com/pengzhanbo) `inline code`
+content [link](https://github.com/benniezou) `inline code`
 
 ```js
 const a = 1

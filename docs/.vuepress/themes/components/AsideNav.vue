@@ -10,7 +10,7 @@ interface Locale {
 }
 
 const locales: Record<string, Locale> = {
-  '/': { star: '在 GitHub 上 Star', issue: '遇到问题？', sponsor: '喝杯奶茶' },
+  '/': { star: '在 GitHub 上 Star', issue: '遇到问题？', sponsor: '相关规定' },
   '/en/': { star: 'Star on GitHub', issue: 'Create Issues', sponsor: 'Buy me a Bubble Tea' },
 }
 
@@ -20,12 +20,12 @@ const locale = computed(() => locales[lang.value])
 
 <template>
   <div class="aside-nav-wrapper">
-    <VPLink class="link" no-icon href="https://github.com/pengzhanbo/vuepress-theme-plume">
+    <VPLink class="link" no-icon href="https://github.com/benniezou/vuepress-theme-plume">
       <VPIcon name="tabler:star" />
       <span class="link-text">{{ locale.star }}</span>
       <span class="vpi-arrow-right" />
     </VPLink>
-    <VPLink class="link" no-icon href="https://github.com/pengzhanbo/vuepress-theme-plume/issues/new/choose">
+    <VPLink class="link" no-icon href="https://github.com/benniezou/vuepress-theme-plume/issues/new/choose">
       <VPIcon name="octicon:issue-opened-16" />
       <span class="link-text">{{ locale.issue }}</span>
       <span class="vpi-arrow-right" />

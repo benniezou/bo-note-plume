@@ -19,7 +19,7 @@ export const zhNavbar: ThemeNavItem[] = defineNavbarConfig([
   {
     text: '泛微',
     icon: 'fluent:planet-16-regular',
-    link: '/fanwei/setting/intro.md',
+    link: '/fanwei/intro.md',
     activeMatch: '^/fanwei/',
   },
   {

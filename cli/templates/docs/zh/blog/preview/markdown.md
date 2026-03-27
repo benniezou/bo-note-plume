@@ -78,7 +78,7 @@ H~2~O
 
 [链接](/)
 
-[外部链接](https://github.com/pengzhanbo)
+[外部链接](https://github.com/benniezou)
 
 ![plume](/plume.svg)
 
@@ -186,7 +186,7 @@ function foo() {
 :::
 
 ::: note 注释
-注释内容 [link](https://github.com/pengzhanbo) `inline code`
+注释内容 [link](https://github.com/benniezou) `inline code`
 
 ```js
 const a = 1
@@ -197,7 +197,7 @@ const c = a + b
 :::
 
 ::: info 信息
-信息内容 [link](https://github.com/pengzhanbo) `inline code`
+信息内容 [link](https://github.com/benniezou) `inline code`
 
 ```js
 const a = 1
@@ -208,7 +208,7 @@ const c = a + b
 :::
 
 ::: tip 提示
-提示内容 [link](https://github.com/pengzhanbo) `inline code`
+提示内容 [link](https://github.com/benniezou) `inline code`
 
 ```js
 const a = 1
@@ -219,7 +219,7 @@ const c = a + b
 :::
 
 ::: warning 警告
-警告内容 [link](https://github.com/pengzhanbo) `inline code`
+警告内容 [link](https://github.com/benniezou) `inline code`
 
 ```js
 const a = 1
@@ -230,7 +230,7 @@ const c = a + b
 :::
 
 ::: caution 错误
-错误内容 [link](https://github.com/pengzhanbo) `inline code`
+错误内容 [link](https://github.com/benniezou) `inline code`
 
 ```js
 const a = 1
@@ -241,7 +241,7 @@ const c = a + b
 :::
 
 ::: important 重要
-重要内容 [link](https://github.com/pengzhanbo) `inline code`
+重要内容 [link](https://github.com/benniezou) `inline code`
 
 ```js
 const a = 1

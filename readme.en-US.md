@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/npm/dy/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=downloads" alt="npm download">
   </a>
   <img src="https://img.shields.io/npm/dependency-version/vuepress-theme-plume/peer/vuepress?color=32A9C3&labelColor=1B3C4A" alt="peer dependency">
-  <img src="https://img.shields.io/github/license/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A" alt="github license">
+  <img src="https://img.shields.io/github/license/benniezou/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A" alt="github license">
   <br>
-  <a href="https://codecov.io/gh/pengzhanbo/vuepress-theme-plume">
-    <img src="https://codecov.io/gh/pengzhanbo/vuepress-theme-plume/graph/badge.svg?token=W6KYBX7WO5" alt="codecov">
+  <a href="https://codecov.io/gh/benniezou/vuepress-theme-plume">
+    <img src="https://codecov.io/gh/benniezou/vuepress-theme-plume/graph/badge.svg?token=W6KYBX7WO5" alt="codecov">
   </a>
 </p>
 
@@ -52,7 +52,7 @@ QQ communication group：[75750308](https://qm.qq.com/q/gmY3kvpmxy)
 
 ## Examples
 
-- [My Personal Blog](https://pengzhanbo.cn/)
+- [My Personal Blog](https://benniezou.cn/)
 
 View [more examples](https://theme-plume.vuejs.press/demos/)
 
@@ -70,9 +70,9 @@ View the [[Contribution Guide]](/CONTRIBUTING_EN.md) for more information
 
 Thank you to all contributors!
 
-![GitHub contributors](https://img.shields.io/github/contributors/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&logo=contributorcovenant)
+![GitHub contributors](https://img.shields.io/github/contributors/benniezou/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&logo=contributorcovenant)
 
-[![contributors](https://contrib.rocks/image?repo=pengzhanbo/vuepress-theme-plume)](https://github.com/pengzhanbo/vuepress-theme-plume/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=benniezou/vuepress-theme-plume)](https://github.com/pengzhanbo/vuepress-theme-plume/graphs/contributors)
 
 ![Repo beats](https://repobeats.axiom.co/api/embed/b3e16e8802010e72e933f64864a8047e3163e927.svg "Repo Beats analytics image")
 

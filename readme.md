@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/npm/dy/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=downloads" alt="npm download">
   </a>
   <img src="https://img.shields.io/npm/dependency-version/vuepress-theme-plume/peer/vuepress?color=32A9C3&labelColor=1B3C4A" alt="peer dependency">
-  <img src="https://img.shields.io/github/license/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A" alt="github license">
+  <img src="https://img.shields.io/github/license/benniezou/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A" alt="github license">
   <br>
-  <a href="https://codecov.io/gh/pengzhanbo/vuepress-theme-plume" >
-  <img src="https://codecov.io/gh/pengzhanbo/vuepress-theme-plume/graph/badge.svg?token=W6KYBX7WO5" alt="codecov"/>
+  <a href="https://codecov.io/gh/benniezou/vuepress-theme-plume" >
+  <img src="https://codecov.io/gh/benniezou/vuepress-theme-plume/graph/badge.svg?token=W6KYBX7WO5" alt="codecov"/>
   </a>
 </p>
 
@@ -52,7 +52,7 @@ QQ 交流群：[75750308](https://qm.qq.com/q/gmY3kvpmxy)
 
 ## 案例
 
-- [我的个人博客](https://pengzhanbo.cn/)
+- [我的个人博客](https://benniezou.cn/)
 
 查看 [更多案例](https://theme-plume.vuejs.press/demos/)
 
@@ -70,13 +70,13 @@ QQ 交流群：[75750308](https://qm.qq.com/q/gmY3kvpmxy)
 
 感谢所有的贡献者！
 
-![GitHub contributors](https://img.shields.io/github/contributors/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&logo=contributorcovenant)
+![GitHub contributors](https://img.shields.io/github/contributors/benniezou/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&logo=contributorcovenant)
 
-[![contributors](https://contrib.rocks/image?repo=pengzhanbo/vuepress-theme-plume)](https://github.com/pengzhanbo/vuepress-theme-plume/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=benniezou/vuepress-theme-plume)](https://github.com/pengzhanbo/vuepress-theme-plume/graphs/contributors)
 
 ![Repo beats](https://repobeats.axiom.co/api/embed/b3e16e8802010e72e933f64864a8047e3163e927.svg "Repo Beats analytics image")
 
-![Star History Chart](https://api.star-history.com/svg?repos=pengzhanbo/vuepress-theme-plume&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=benniezou/vuepress-theme-plume&type=Date)
 
 ## License
 

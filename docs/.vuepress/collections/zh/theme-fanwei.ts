@@ -7,6 +7,7 @@ export const themeFanwei: ThemeCollectionItem = defineCollection({
   title: '泛微',
   linkPrefix: '/fanwei/',
   sidebar: [
+    'intro',
     {
       text: '配置',
       collapsed: false,
