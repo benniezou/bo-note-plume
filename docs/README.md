@@ -6,7 +6,7 @@ config:
     type: hero
     full: true
     effect: tint-plate
-    forceDark: true
+    forceDark: false
     hero:
       name: 亚尼
       tagline: Bennie Zou Olia Zhang

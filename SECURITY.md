@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-Please [open an issue](https://github.com/BennieZou/vuepress-theme-plume/issues/new?assignees=pengzhanbo&title=%5BSecurity%5D).
+Please [open an issue](https://github.com/BennieZou/vuepress-theme-plume/issues/new?assignees=benniezou&title=%5BSecurity%5D).

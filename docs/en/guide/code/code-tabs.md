@@ -207,7 +207,7 @@ The theme automatically adapts icons for the following tech stacks:
 
 ::: info Icon Support Feedback
 If the technology stack you're using doesn't display icons correctly, please submit an
-[issue](https://github.com/pengzhanbo/vuepress-theme-plume/issues/new) to let us know, and we'll add the relevant icon support as soon as possible.
+[issue](https://github.com/benniezou/vuepress-theme-plume/issues/new) to let us know, and we'll add the relevant icon support as soon as possible.
 :::
 
 ## Icon Configuration Options

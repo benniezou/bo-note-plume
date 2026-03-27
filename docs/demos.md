@@ -16,7 +16,7 @@ docs:
     desc: 一个简约的，功能丰富的 vuepress 文档&博客 主题。
     logo: /plume.png
     url: https://theme-plume.vuejs.press
-    repo: https://github.com/pengzhanbo/vuepress-theme-plume
+    repo: https://github.com/benniezou/vuepress-theme-plume
     preview: /images/demos/plume.jpg
   -
     name: city walk 城市漫步
@@ -98,9 +98,9 @@ blog:
   -
     name: 鹏展博
     desc: 即使慢，驰而不息，纵会落后，纵会失败，但必须能够到达他所向的目标。
-    logo: https://pengzhanbo.cn/images/blogger-fav.png
-    url: https://pengzhanbo.cn/
-    repo: https://github.com/pengzhanbo/pengzhanbo.cn
+    logo: https://benniezou.cn/images/blogger-fav.png
+    url: https://benniezou.cn/
+    repo: https://benniezou.com/benniezou/pengzhanbo.cn
     preview: /images/demos/pengzhanbo.webp
   -
     name: 二猫子
@@ -279,7 +279,7 @@ blog:
 图片请尽量使用 `.jpg` 格式，体积较大的请使用 [tinypng](https://tinypng.com/) 进行压缩。
 :::
 
-[前往 **Github Pull Request** 提交站点](https://github.com/pengzhanbo/vuepress-theme-plume/edit/main/docs/demos.md){.read-more}
+[前往 **Github Pull Request** 提交站点](https://github.com/benniezou/vuepress-theme-plume/edit/main/docs/demos.md){.read-more}
 
 ## 文档
 

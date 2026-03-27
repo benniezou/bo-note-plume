@@ -15,7 +15,7 @@ Before using this feature, you should first familiarize yourself with this theme
 and understand the various built-in components to safely override them.
 
 The theme's component source code is hosted on
-[GitHub](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/theme/src/client/components) under the MIT license.
+[GitHub](https://github.com/benniezou/vuepress-theme-plume/tree/main/theme/src/client/components) under the MIT license.
 :::
 
 ## Usage

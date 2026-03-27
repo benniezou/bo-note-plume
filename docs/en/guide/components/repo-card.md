@@ -24,7 +24,7 @@ import RepoCard from 'vuepress-theme-plume/features/RepoCard.vue'
 </script>
 
 <!-- After importing, you can use it in markdown -->
-<RepoCard repo="pengzhanbo/vuepress-theme-plume" />
+<RepoCard repo="benniezou/vuepress-theme-plume" />
 ```
 
 Register as a global component:

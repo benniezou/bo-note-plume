@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@lunariajs/core/config.schema.json",
   "repository": {
-    "name": "pengzhanbo/vuepress-theme-plume",
+    "name": "benniezou/vuepress-theme-plume",
     "rootDir": "docs"
   },
   "files": [

@@ -29,7 +29,7 @@ import { Layout, NotFound } from 'vuepress-theme-plume/client'
 - `<VPImage />`: Image component
 - `<VPHomeBox />`: Home page layout component
 
-For more components, please check the [source code](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/theme/src/client/components).
+For more components, please check the [source code](https://github.com/benniezou/vuepress-theme-plume/tree/main/theme/src/client/components).
 
 ```ts
 import VPButton from 'vuepress-theme-plume/components/VPButton.vue'
@@ -123,4 +123,4 @@ const postList = useLocalePostList()
 
 ### More
 
-For other composable APIs, please check the [source code](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/theme/src/client/composables).
+For other composable APIs, please check the [source code](https://github.com/benniezou/vuepress-theme-plume/tree/main/theme/src/client/composables).

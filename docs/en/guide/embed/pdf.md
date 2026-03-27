@@ -58,7 +58,7 @@ Additional options can be added to `@[pdf ]` for more flexible control:
 Input:
 
 ```md
-@[pdf](https://plume.pengzhanbo.cn/files/sample-1.pdf)
+@[pdf](https://plume.benniezou.cn/files/sample-1.pdf)
 ```
 
 Output:

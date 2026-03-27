@@ -72,7 +72,7 @@ QQ 交流群：[75750308](https://qm.qq.com/q/gmY3kvpmxy)
 
 ![GitHub contributors](https://img.shields.io/github/contributors/benniezou/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&logo=contributorcovenant)
 
-[![contributors](https://contrib.rocks/image?repo=benniezou/vuepress-theme-plume)](https://github.com/pengzhanbo/vuepress-theme-plume/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=benniezou/vuepress-theme-plume)](https://github.com/benniezou/vuepress-theme-plume/graphs/contributors)
 
 ![Repo beats](https://repobeats.axiom.co/api/embed/b3e16e8802010e72e933f64864a8047e3163e927.svg "Repo Beats analytics image")
 

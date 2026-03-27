@@ -16,7 +16,6 @@ export default defineThemeConfig({
   },
 
   transition: { appearance: 'circle-clip' },
-
   social: [
     { icon: 'github', link: 'https://github.com/benniezou/bo-note-plume' },
     { icon: 'qq', link: 'https://qm.qq.com/q/MCSb2aVoAg' },
