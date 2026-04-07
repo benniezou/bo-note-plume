@@ -1,12 +1,15 @@
 ---
-title: ruesCode
+title: 编码生成
 createTime: 2026/03/03 15:29:13
 permalink: /program/supplier/ruesCode/
 ---
 
-## 数据库
+## 生成唯一识别码
 
-```sql
+## 文件配置
+
+::: code-tree title="编码生成" height="500px" entry="sql"
+```sql title="sql/code_rules.sql"
 CREATE TABLE code_rules (
     id INT AUTO_INCREMENT PRIMARY KEY,
     type_code VARCHAR(50) UNIQUE NOT NULL COMMENT '编号类型代码，如 SUP, CUST, PO',
@@ -20,7 +23,7 @@ CREATE TABLE code_rules (
 );
 ```
 
-```sql
+```sql title="sql/code_sequences.sql"
 CREATE TABLE code_sequences (
     id INT AUTO_INCREMENT PRIMARY KEY,
     rule_type_code VARCHAR(50) NOT NULL COMMENT '关联的规则类型代码',
@@ -33,7 +36,7 @@ CREATE TABLE code_sequences (
 );
 ```
 
-```java
+```java title="java/class.java"
 // CodeRule.java
 public class CodeRule {
     private Long id;
@@ -58,7 +61,7 @@ public class CodeSequence {
 }
 ```
 
-```java
+```java title="java/Mapper.java"
 // CodeRuleMapper.java
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
@@ -88,7 +91,7 @@ public interface CodeSequenceMapper {
 
 ```
 
-```java
+```java title="java/Generator.java"
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -152,7 +155,7 @@ public class UniversalCodeGenerator {
 }
 ```
 
-```java
+```java title="java/Controller.java"
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -188,3 +191,5 @@ public class ExampleController {
     }
 }
 ```
+
+:::

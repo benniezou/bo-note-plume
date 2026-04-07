@@ -1,5 +1,5 @@
 ---
-title: 供应商信息表
+title: 供应商表
 createTime: 2026/03/03 14:34:29
 permalink: /program/supplier/supplier
 ---

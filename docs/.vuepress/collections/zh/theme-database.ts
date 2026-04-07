@@ -7,11 +7,31 @@ export const themeDatabase: ThemeCollectionItem = defineCollection({
   title: '数据库',
   linkPrefix: '/database/',
   sidebar: [
+    'intro',
     {
-      text: '微软服务器',
+      text: 'mysql',
       collapsed: false,
       icon: 'carbon:idea',
       prefix: 'mysql',
+      items: [
+        'intro',
+      ],
+    },
+    {
+      text: 'SqlServer',
+      collapsed: false,
+      icon: 'carbon:idea',
+      prefix: 'sqlServer',
+      items: [
+        'intro',
+        'flowServer',
+      ],
+    },
+    {
+      text: '鼎捷系统',
+      collapsed: false,
+      icon: 'carbon:idea',
+      prefix: 'hrmdb',
       items: [
         'intro',
       ],

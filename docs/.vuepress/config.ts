@@ -14,7 +14,6 @@ export default defineUserConfig({
   lang: 'zh-CN',
   source: path.resolve(__dirname, '../'),
   public: path.resolve(__dirname, 'public'),
-
   locales: {
     '/': { title: 'BOliaDoc', lang: 'zh-CN' },
     '/en/': { title: 'BOliaDoc', lang: 'en-US' },

@@ -32,6 +32,7 @@ export const themeProgram: ThemeCollectionItem = defineCollection({
       prefix: 'supplier',
       items: [
         'intro',
+        'doMail',
         'ruesCode',
         'supplier',
         'order',
